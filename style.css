@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to bottom right, #C9C6FB, #8A83E0);
+    font-family: 'Varela Round', sans-serif;
+}
+
+p {
+    font-size: medium;
+}
+
+h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 800;
+}
+
+.btn-white {
+    font-size: medium;
+    font-family: 'Manrope', sans-serif !important;
+    font-weight: 600;
+}
+
+.modal-title {
+    font-size: large !important;
+    font-family: 'Space Grotesk', sans-serif !important;
+    font-weight: 800;
+}
